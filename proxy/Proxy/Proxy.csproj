@@ -98,8 +98,5 @@
   <ItemGroup>
     <None Include="bin\Debug\Image 70.png" />
   </ItemGroup>
-  <ItemGroup>
-    <Content Include="readme.txt" />
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
