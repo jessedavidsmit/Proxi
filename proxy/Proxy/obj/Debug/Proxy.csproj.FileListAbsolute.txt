@@ -1,0 +1,14 @@
+c:\users\cymendor\documents\visual studio 2017\Projects\Proxy\Proxy\bin\Debug\Proxy.exe.config
+c:\users\cymendor\documents\visual studio 2017\Projects\Proxy\Proxy\bin\Debug\Proxy.exe
+c:\users\cymendor\documents\visual studio 2017\Projects\Proxy\Proxy\bin\Debug\Proxy.pdb
+c:\users\cymendor\documents\visual studio 2017\Projects\Proxy\Proxy\obj\Debug\Proxy.csprojResolveAssemblyReference.cache
+c:\users\cymendor\documents\visual studio 2017\Projects\Proxy\Proxy\obj\Debug\Proxy.Properties.Resources.resources
+c:\users\cymendor\documents\visual studio 2017\Projects\Proxy\Proxy\obj\Debug\Proxy.csproj.GenerateResource.Cache
+c:\users\cymendor\documents\visual studio 2017\Projects\Proxy\Proxy\obj\Debug\Proxy.exe
+c:\users\cymendor\documents\visual studio 2017\Projects\Proxy\Proxy\obj\Debug\Proxy.pdb
+C:\Users\Cymendor\documents\visual studio 2017\Projects\Proxy\Proxy\obj\Debug\Proxy.About.resources
+C:\Users\Cymendor\documents\visual studio 2017\Projects\Proxy\Proxy\obj\Debug\Proxy.Main.resources
+C:\Users\Cymendor\documents\visual studio 2017\Projects\Proxy\Proxy\bin\Debug\CircularProgressBar.dll
+C:\Users\Cymendor\documents\visual studio 2017\Projects\Proxy\Proxy\bin\Debug\WinFormAnimation.dll
+C:\Users\Cymendor\documents\visual studio 2017\Projects\Proxy\Proxy\bin\Debug\CircularProgressBar.xml
+C:\Users\Cymendor\documents\visual studio 2017\Projects\Proxy\Proxy\bin\Debug\WinFormAnimation.xml
