@@ -2,7 +2,7 @@
 
 A Proxy Automation and Management Tool
 
-![Alt Text](https://github.com/jessedavidsmit/Proxi/blob/master/Proxy/proxi_screenshot.gif)
+![Alt Text](https://github.com/jessedavidsmit/Proxi/blob/master/Other/proxi_screenshot.gif)
 
 ## HOW TO USE
 Enter the proxy address of your choice inside the textbox. 
