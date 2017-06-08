@@ -146,21 +146,7 @@ namespace Proxy
             } while (workModeActive == true);
         
 
-            //while (workModeActive == true)
-            //{
-            //    RegistryKey defaultConnectionSettingsKey = Registry.CurrentUser.OpenSubKey(@"Software\Microsoft\Windows\CurrentVersion\Internet Settings\Connections", true);
-            //    RegistryKey proxyEnablekey = Registry.CurrentUser.OpenSubKey(@"Software\Microsoft\Windows\CurrentVersion\Internet Settings", true);
-
-            //    int proxyEnableVal = Convert.ToInt32(proxyEnablekey.GetValue("ProxyEnable").ToString());
-            //    byte[] defConnection = (byte[])defaultConnectionSettingsKey.GetValue("DefaultConnectionSettings");
-
-            //    if (defConnection[8] == 9 | proxyEnableVal == 0)
-            //    {
-            //        ModifyRegistry(1);
-            //    }
-
-            //}
-            //MessageBox.Show("im working");
+   
         }
 
         private void exitToolStripMenuItem_Click(object sender, EventArgs e)

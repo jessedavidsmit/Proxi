@@ -1,0 +1,13 @@
+C:\Users\Cymendor\Documents\Visual Studio 2017\Projects\Proxy\Proxy\bin\Release\Proxy.exe.config
+C:\Users\Cymendor\Documents\Visual Studio 2017\Projects\Proxy\Proxy\bin\Release\Proxy.exe
+C:\Users\Cymendor\Documents\Visual Studio 2017\Projects\Proxy\Proxy\bin\Release\Proxy.pdb
+C:\Users\Cymendor\Documents\Visual Studio 2017\Projects\Proxy\Proxy\bin\Release\CircularProgressBar.dll
+C:\Users\Cymendor\Documents\Visual Studio 2017\Projects\Proxy\Proxy\bin\Release\WinFormAnimation.dll
+C:\Users\Cymendor\Documents\Visual Studio 2017\Projects\Proxy\Proxy\bin\Release\CircularProgressBar.xml
+C:\Users\Cymendor\Documents\Visual Studio 2017\Projects\Proxy\Proxy\bin\Release\WinFormAnimation.xml
+C:\Users\Cymendor\Documents\Visual Studio 2017\Projects\Proxy\Proxy\obj\Release\Proxy.About.resources
+C:\Users\Cymendor\Documents\Visual Studio 2017\Projects\Proxy\Proxy\obj\Release\Proxy.Main.resources
+C:\Users\Cymendor\Documents\Visual Studio 2017\Projects\Proxy\Proxy\obj\Release\Proxy.Properties.Resources.resources
+C:\Users\Cymendor\Documents\Visual Studio 2017\Projects\Proxy\Proxy\obj\Release\Proxy.csproj.GenerateResource.Cache
+C:\Users\Cymendor\Documents\Visual Studio 2017\Projects\Proxy\Proxy\obj\Release\Proxy.exe
+C:\Users\Cymendor\Documents\Visual Studio 2017\Projects\Proxy\Proxy\obj\Release\Proxy.pdb
